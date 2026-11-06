@@ -1,0 +1,2 @@
+-- Ques 8
+SELECT last_name FROM employees WHERE last_name LIKE '__e%';
