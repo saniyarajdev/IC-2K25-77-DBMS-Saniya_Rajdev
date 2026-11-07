@@ -1,4 +1,4 @@
-# Lab 2 - DBMS ASSIGNMENT_01
+# Lab_02 - DBMS ASSIGNMENT_01
 
 ## Program Specifications
 
