@@ -8,9 +8,12 @@
 - Institute: IIPS, DAVV, Indore
 ---
 ## About This Repository
-This repository contains practical assignments completed as part of the DBMS Lab. It includes SQL programs, output screenshots, and documentation for each lab.
-All programs are executed using MySQL Workbench.
+
+- This repository contains practical assignments completed as part of the DBMS Lab. It includes SQL programs, output screenshots, and documentation for each lab.
+- All programs are executed using MySQL Workbench.
 ---
+## Lab Assignments
+
 | Lab | Description |
 | :--- | :--- |
 | **Lab_01** | Table Creation and SQL Constraints |
@@ -18,6 +21,7 @@ All programs are executed using MySQL Workbench.
 | **Lab_03** | SELECT Queries and Data Filtering |
 | **Lab_04** | Aggregate Functions and GROUP BY Clause |
 ---
+## Repository Structure
 ```text
 IC-2K25-77-DBMS-Saniya_Rajdev/
 ├── Lab_01/
@@ -55,12 +59,12 @@ IC-2K25-77-DBMS-Saniya_Rajdev/
 └── README.md
 ```
 ---
-Tools Used
+## Tools Used
 
 - MySQL Workbench
 - SQL
 ---
-Learning Objectives
+## Learning Objectives
 
 - Understand database creation and table management.
 - Practise SQL queries and constraints.
